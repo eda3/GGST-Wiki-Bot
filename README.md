@@ -1,6 +1,6 @@
 # GGST-Wiki-Bot
 
-**GGST初心者鯖Wiki** を操作・自動化するための、Rust製のBotです。  
+**GGST初鯖攻略Wiki** を操作・自動化するための、Rust製のBotです。  
 GraphQL APIを使って、ページの取得・整理・拡張などを行えます。
 
 ## 🔧 機能（予定含む）
